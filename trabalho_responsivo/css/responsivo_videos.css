@@ -1,0 +1,25 @@
+@media screen and (max-width:900px){
+    .headline_l{
+        flex:100%;
+        margin: 5%;
+        text-align: center;
+    }
+    
+    .headline_r{
+        flex:100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .header{
+        padding-top: 100px;
+    }
+    .menu{
+        margin: 0;
+        text-align: center;
+    }
+    .logo {
+        display: none;
+
+
+    }
+}
