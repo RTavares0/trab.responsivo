@@ -54,29 +54,47 @@ body{
     justify-content: center;
     align-items: center;
     padding-top: 100px;
-    /* height: 100%; */
+    /* height: 600px; */
     
     
 }
+
 
 .headline_l{
     margin-top: 5px;
     margin-left: 10%;
     flex:40%;
+    text-align:center;
+    align-items: center;
+    color: gray;
      /* height: 500px;   */
     /* border:1px solid black;  */
     
-
-
 }
+
+
 .headline_r{
     margin-top: 5px;
     margin-right: 10%;
     flex:40%;
     /* border: 1px solid red;  */
     text-align: center; 
+    align-items: center;
+    color: grey;
 
- }
+}
+
+ table{
+    width: 100%;
+    color:grey;
+    border: 1px;
+    text-align: center;
+    
+}
+
+th , td {
+    padding: 5px;
+}
 footer{
     height: 150px;
     background-image: linear-gradient(180deg,#1f2630,black,black);
