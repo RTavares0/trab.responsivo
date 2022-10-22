@@ -63,6 +63,7 @@ body{
     margin-top: 5px;
     margin-left: 10%;
     flex:40%;
+    padding: 5px;
      /* height: 500px;   */
     /* border:1px solid black;  */
     
@@ -74,7 +75,8 @@ body{
     margin-right: 10%;
     flex:40%;
     /* border: 1px solid red;  */
-    text-align: center; 
+    padding: 5px;
+
 
  }
 footer{
